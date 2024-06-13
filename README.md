@@ -6,7 +6,7 @@
 
 git clone <ссылка на проект>
 
-pip install requirements.txt
+pip install -r requirements.txt
 
 Запуск:
 
