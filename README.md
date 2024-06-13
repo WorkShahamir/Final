@@ -5,6 +5,7 @@
 установка:
 
 git clone <ссылка на проект>
+
 pip install requirements.txt
 
 Запуск:
